@@ -1,0 +1,1143 @@
+{
+  "code_items": [],
+  "edges": [],
+  "schema": 3,
+  "spec_units": [
+    {
+      "anchor": "root",
+      "content_hash": "sha256:b3c6144fe0bf4381eb21ea92426347d921dd346b47778f90dae921dffcff7bc7",
+      "doc_path": "contract/SOM-1",
+      "file": "vibevm/vibespecs/contract/SOM-1.md",
+      "heading": "SOM.1 - Model the Bodily Contribution to a Movement",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-1#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:f7c6515386a815c5c4f965856f24e127b1f268bfcce2217beebac1428e44effa",
+      "doc_path": "contract/SOM-1",
+      "file": "vibevm/vibespecs/contract/SOM-1.md",
+      "heading": "SOM.1:1 - Problem frame",
+      "line": 10,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-1#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:5659a7614be334b1e9e86c8840d7f95fd76943288a7770eeca946d8725945de2",
+      "doc_path": "contract/SOM-1",
+      "file": "vibevm/vibespecs/contract/SOM-1.md",
+      "heading": "SOM.1:2 - Problem",
+      "line": 18,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-1#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:ea91332efdf614247ccd006fd6da0cfea19c3fde5cb5ed444afceeafca33cfa8",
+      "doc_path": "contract/SOM-1",
+      "file": "vibevm/vibespecs/contract/SOM-1.md",
+      "heading": "SOM.1:3 - Forces",
+      "line": 24,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-1#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:5ec788a54685477a7b6b0e49935c4e217d2bf932e6813a87e67c76bfd0b529ad",
+      "doc_path": "contract/SOM-1",
+      "file": "vibevm/vibespecs/contract/SOM-1.md",
+      "heading": "SOM.1:4 - Solution",
+      "line": 28,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-1#solution"
+    },
+    {
+      "anchor": "choose-the-action-interval",
+      "content_hash": "sha256:97d4f4fa3e8d883a6a620a3cd176f4188aae043c561b68d974246f9681d8d208",
+      "doc_path": "contract/SOM-1",
+      "file": "vibevm/vibespecs/contract/SOM-1.md",
+      "heading": "SOM.1:4.1 - Choose the action interval",
+      "line": 30,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-1#choose-the-action-interval"
+    },
+    {
+      "anchor": "relate-three-accounts",
+      "content_hash": "sha256:bd3f49b1ab054cb2f88981081580d8e4af0bb51b9fbf5635f4d0ce905a8fab0c",
+      "doc_path": "contract/SOM-1",
+      "file": "vibevm/vibespecs/contract/SOM-1.md",
+      "heading": "SOM.1:4.2 - Relate three accounts",
+      "line": 36,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-1#relate-three-accounts"
+    },
+    {
+      "anchor": "propose-a-change-and-a-test",
+      "content_hash": "sha256:c30de1489e18d3fd1428fcf1812a0b9afaa83b891c9bee901f912407a8339b4a",
+      "doc_path": "contract/SOM-1",
+      "file": "vibevm/vibespecs/contract/SOM-1.md",
+      "heading": "SOM.1:4.3 - Propose a change and a test",
+      "line": 50,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-1#propose-a-change-and-a-test"
+    },
+    {
+      "anchor": "choose-the-next-move",
+      "content_hash": "sha256:f7a39da7af9d5c4c4f11d3a0d3fd9c22fcda99fca66a9383344c509b1dacfae8",
+      "doc_path": "contract/SOM-1",
+      "file": "vibevm/vibespecs/contract/SOM-1.md",
+      "heading": "SOM.1:4.4 - Choose the next move",
+      "line": 60,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-1#choose-the-next-move"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:e3b0cca85d934bf71d2b1d00e5ff1bd0784b7f70ec83963f6cb6ce1a15ec3c68",
+      "doc_path": "contract/SOM-1",
+      "file": "vibevm/vibespecs/contract/SOM-1.md",
+      "heading": "SOM.1:7 - Conformance Checklist",
+      "line": 68,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-1#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:7a05589d35c0e0a90f7f05e6e07fa57bb92f3330253bdd584658073ec55fc5c4",
+      "doc_path": "contract/SOM-1",
+      "file": "vibevm/vibespecs/contract/SOM-1.md",
+      "heading": "SOM.1:9 - Consequences",
+      "line": 72,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-1#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:eb2268117dd9e1037f7e84219271dd25fbb20f457089f327e27576fe7803dfb8",
+      "doc_path": "contract/SOM-1",
+      "file": "vibevm/vibespecs/contract/SOM-1.md",
+      "heading": "SOM.1:12 - Relations",
+      "line": 76,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-1#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:358439cc0a8549917c6b76d6b465911f22a82fe0fd4361bbc8c1cc84046789bf",
+      "doc_path": "contract/SOM-1",
+      "file": "vibevm/vibespecs/contract/SOM-1.md",
+      "heading": "Dependencies",
+      "line": 81,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-1#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:4da1077b046327f14c0de03c0388ba2fbecb38ba568177222501f69656e28f48",
+      "doc_path": "contract/SOM-1",
+      "file": "vibevm/vibespecs/contract/SOM-1.md",
+      "heading": "Dependencies (as published): FPF spec://ai.lev/fpf-spec/contract/A-6-P-RI#root, spec://ai.lev/fpf-spec/contract/B-5-EA#root, spec://ai.lev/fpf-spec/contract/B-1-5-EW#root; spec://ai.lev/fpf-eng-som/contract/SOM-2#root–5 when their contribution is needed @status:spec/done",
+      "line": 83,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-1#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:515f46382df67a7cb866b308ca064fbae066678c8852772581300c7326f596f8",
+      "doc_path": "contract/SOM-1",
+      "file": "vibevm/vibespecs/contract/SOM-1.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-eng-som/contract/SOM-2#root, spec://ai.lev/fpf-eng-som/contract/SOM-3#root, spec://ai.lev/fpf-eng-som/contract/SOM-4#root, spec://ai.lev/fpf-eng-som/contract/SOM-5#root @status:spec/done",
+      "line": 84,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-1#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:2c30969b4aeb6ef75d225102e8142e3d231dad07433194d83124c9b5a8028589",
+      "doc_path": "contract/SOM-2",
+      "file": "vibevm/vibespecs/contract/SOM-2.md",
+      "heading": "SOM.2 - Make a Bodily Change Distinguishable",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-2#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:f566882f09c76dc7ab4825828a0eb04b997e0992d30f7863c144b1a6888852ad",
+      "doc_path": "contract/SOM-2",
+      "file": "vibevm/vibespecs/contract/SOM-2.md",
+      "heading": "SOM.2:1 - Problem frame",
+      "line": 10,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-2#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:878a31c0b968e60c5387c4f848f735d9bf2454d0e1cb1e66a9d5ecf0c0fcce66",
+      "doc_path": "contract/SOM-2",
+      "file": "vibevm/vibespecs/contract/SOM-2.md",
+      "heading": "SOM.2:2 - Problem",
+      "line": 16,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-2#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:8bc062dd52034814fc8185646c9209bdc7e18c1fb465910d5d017f79f76beaf5",
+      "doc_path": "contract/SOM-2",
+      "file": "vibevm/vibespecs/contract/SOM-2.md",
+      "heading": "SOM.2:3 - Forces",
+      "line": 20,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-2#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:760409279c0e968c26886a82e0e7725ce49445b9dff49eedd0f08b07f75e405d",
+      "doc_path": "contract/SOM-2",
+      "file": "vibevm/vibespecs/contract/SOM-2.md",
+      "heading": "SOM.2:4 - Solution",
+      "line": 24,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-2#solution"
+    },
+    {
+      "anchor": "construct-an-accessible-contrast",
+      "content_hash": "sha256:e2e1263074162529238dc4a6bdd8316eb45a730eafc1193234ace3b570f8f74f",
+      "doc_path": "contract/SOM-2",
+      "file": "vibevm/vibespecs/contract/SOM-2.md",
+      "heading": "SOM.2:4.1 - Construct an accessible contrast",
+      "line": 26,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-2#construct-an-accessible-contrast"
+    },
+    {
+      "anchor": "locate-what-is-distinguishable",
+      "content_hash": "sha256:1937a2c3178788784e9368f8c4e028b1292f37a0db1340bbbdcd14de993aa64e",
+      "doc_path": "contract/SOM-2",
+      "file": "vibevm/vibespecs/contract/SOM-2.md",
+      "heading": "SOM.2:4.2 - Locate what is distinguishable",
+      "line": 34,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-2#locate-what-is-distinguishable"
+    },
+    {
+      "anchor": "connect-the-contrast-to-action",
+      "content_hash": "sha256:dc254e8d49c3cd0532a2d0f2ef7016b81e637707b0d5bb03bdd9fe6d344019f6",
+      "doc_path": "contract/SOM-2",
+      "file": "vibevm/vibespecs/contract/SOM-2.md",
+      "heading": "SOM.2:4.3 - Connect the contrast to action",
+      "line": 42,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-2#connect-the-contrast-to-action"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:dd6499679b371e6debe0340f630020e2947e80452c964a61e873fef430bdf67d",
+      "doc_path": "contract/SOM-2",
+      "file": "vibevm/vibespecs/contract/SOM-2.md",
+      "heading": "SOM.2:7 - Conformance Checklist",
+      "line": 50,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-2#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:3e135e3a7244a92cb695b1752999b89416e27afd37fa977b31d8914f9ffad8f8",
+      "doc_path": "contract/SOM-2",
+      "file": "vibevm/vibespecs/contract/SOM-2.md",
+      "heading": "SOM.2:9 - Consequences",
+      "line": 54,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-2#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:2753f82fb1d957e08e60c5bfb6dcf480359e586d68a857456dd1beeecc1c8902",
+      "doc_path": "contract/SOM-2",
+      "file": "vibevm/vibespecs/contract/SOM-2.md",
+      "heading": "SOM.2:12 - Relations",
+      "line": 58,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-2#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:61721d130c275a2b4702816529cda56a4bd88ab335f673ac0a889a54329ad3c9",
+      "doc_path": "contract/SOM-2",
+      "file": "vibevm/vibespecs/contract/SOM-2.md",
+      "heading": "Dependencies",
+      "line": 63,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-2#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:489ecbb92b21c163c6aa1c82eed1983e3ea3b46cf9bca99ebce4e0a7035dff6e",
+      "doc_path": "contract/SOM-2",
+      "file": "vibevm/vibespecs/contract/SOM-2.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-eng-som/contract/SOM-1#root; spec://ai.lev/fpf-eng-hcd/contract/HCD-6-1#root @status:spec/done",
+      "line": 65,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-2#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:7cf1a0777a065c582f72a388c6de5bc0ba9fd0dafb315401fb07eaafd486f55a",
+      "doc_path": "contract/SOM-2",
+      "file": "vibevm/vibespecs/contract/SOM-2.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-eng-som/contract/SOM-1#root, spec://ai.lev/fpf-eng-som/contract/SOM-3#root @status:spec/done",
+      "line": 66,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-2#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:27e496ce843a99839393acfddfab1f7460f7b263f43e2542210de8339db679e9",
+      "doc_path": "contract/SOM-3",
+      "file": "vibevm/vibespecs/contract/SOM-3.md",
+      "heading": "SOM.3 - Regulate Bodily Effort in Discernible Steps",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-3#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:ec4e2cd4c45bb03d9960821ff0317fa60bad543b0ca86334dea2222fc52e34d2",
+      "doc_path": "contract/SOM-3",
+      "file": "vibevm/vibespecs/contract/SOM-3.md",
+      "heading": "SOM.3:1 - Problem frame",
+      "line": 10,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-3#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:fe8cf5227d5d0ebe461a93a0f0519a720d45308c1b726895fd469a66f4f47045",
+      "doc_path": "contract/SOM-3",
+      "file": "vibevm/vibespecs/contract/SOM-3.md",
+      "heading": "SOM.3:2 - Problem",
+      "line": 16,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-3#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:e0a5f5a17c0bea07b0e907907afbc4a83202067f7af1cd7b838a26a362e056f8",
+      "doc_path": "contract/SOM-3",
+      "file": "vibevm/vibespecs/contract/SOM-3.md",
+      "heading": "SOM.3:3 - Forces",
+      "line": 20,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-3#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:aa4b8ab78edb8943a8d7b25868ad6ed2827689fa8478cb070156c522585bb9c8",
+      "doc_path": "contract/SOM-3",
+      "file": "vibevm/vibespecs/contract/SOM-3.md",
+      "heading": "SOM.3:4 - Solution",
+      "line": 24,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-3#solution"
+    },
+    {
+      "anchor": "establish-an-available-change",
+      "content_hash": "sha256:79f2fc68433a365baba933a0e6d40810996cb75b402c2559600cac7428400431",
+      "doc_path": "contract/SOM-3",
+      "file": "vibevm/vibespecs/contract/SOM-3.md",
+      "heading": "SOM.3:4.1 - Establish an available change",
+      "line": 26,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-3#establish-an-available-change"
+    },
+    {
+      "anchor": "adjust-in-discernible-increments",
+      "content_hash": "sha256:1807e533a5fe445e86482f64531b92a3004c48361d5eb40f42558187aab51f28",
+      "doc_path": "contract/SOM-3",
+      "file": "vibevm/vibespecs/contract/SOM-3.md",
+      "heading": "SOM.3:4.2 - Adjust in discernible increments",
+      "line": 32,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-3#adjust-in-discernible-increments"
+    },
+    {
+      "anchor": "compare-experience-and-effect",
+      "content_hash": "sha256:31d833245fafee93156b4905bb5738a4f2ffb4ef984118f09142979db1d97f97",
+      "doc_path": "contract/SOM-3",
+      "file": "vibevm/vibespecs/contract/SOM-3.md",
+      "heading": "SOM.3:4.3 - Compare experience and effect",
+      "line": 40,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-3#compare-experience-and-effect"
+    },
+    {
+      "anchor": "restore-the-conditions-of-use",
+      "content_hash": "sha256:ba2510c261f9342eabde79cffbb42b55ae54d7d41a20c9c6d03747cd3b43a342",
+      "doc_path": "contract/SOM-3",
+      "file": "vibevm/vibespecs/contract/SOM-3.md",
+      "heading": "SOM.3:4.4 - Restore the conditions of use",
+      "line": 46,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-3#restore-the-conditions-of-use"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:bf0687270513e31ae14ee9be86e9ab1295990984c3d07bf16f0af59634138d73",
+      "doc_path": "contract/SOM-3",
+      "file": "vibevm/vibespecs/contract/SOM-3.md",
+      "heading": "SOM.3:7 - Conformance Checklist",
+      "line": 52,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-3#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:aaecd79368bbe34452c685151d4705b0b7773ce8431beec78362f553161b46a5",
+      "doc_path": "contract/SOM-3",
+      "file": "vibevm/vibespecs/contract/SOM-3.md",
+      "heading": "SOM.3:9 - Consequences",
+      "line": 56,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-3#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:81991caa22a4397919f4cf9a7eb8c70c34fad092d32ef32baad8f2b83dfe2a95",
+      "doc_path": "contract/SOM-3",
+      "file": "vibevm/vibespecs/contract/SOM-3.md",
+      "heading": "SOM.3:12 - Relations",
+      "line": 60,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-3#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:b0262a0463191f85a3911e3f4a2f9d620ea2f485007ce66f5d3c5a3add055a5f",
+      "doc_path": "contract/SOM-3",
+      "file": "vibevm/vibespecs/contract/SOM-3.md",
+      "heading": "Dependencies",
+      "line": 65,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-3#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:092d4798cb82b25fd99e62be9eda899de34c5286450368ca6d908724b935caf7",
+      "doc_path": "contract/SOM-3",
+      "file": "vibevm/vibespecs/contract/SOM-3.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-eng-som/contract/SOM-1#root, spec://ai.lev/fpf-eng-som/contract/SOM-2#root; spec://ai.lev/fpf-eng-hcd/contract/HCD-9#root @status:spec/done",
+      "line": 67,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-3#DEPENDS-ON"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:890b1a50c91f8326a9da97d9240d2b1bb48eb2c63620bf000cafe74dc6594569",
+      "doc_path": "contract/SOM-4",
+      "file": "vibevm/vibespecs/contract/SOM-4.md",
+      "heading": "SOM.4 - Build and Recall a Coordinated Bodily Change",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-4#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:034abf5fce56de95fa29bbd3e1ce75e307d6d7fe795638d29087b84259391d76",
+      "doc_path": "contract/SOM-4",
+      "file": "vibevm/vibespecs/contract/SOM-4.md",
+      "heading": "SOM.4:1 - Problem frame",
+      "line": 10,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-4#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:8328db0e9313f455bce688957a58076abab924388b17b1c46aef7fad962f3658",
+      "doc_path": "contract/SOM-4",
+      "file": "vibevm/vibespecs/contract/SOM-4.md",
+      "heading": "SOM.4:2 - Problem",
+      "line": 18,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-4#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:c39836fe3b3ce7f7a4e43994d868cfbdcc4ab1df647e93b471be8cb29e496567",
+      "doc_path": "contract/SOM-4",
+      "file": "vibevm/vibespecs/contract/SOM-4.md",
+      "heading": "SOM.4:3 - Forces",
+      "line": 22,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-4#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:668b5968bf922be4cdc8e5d9aefcaa76e18d103d0a92de0ff7883216b1b46ff0",
+      "doc_path": "contract/SOM-4",
+      "file": "vibevm/vibespecs/contract/SOM-4.md",
+      "heading": "SOM.4:4 - Solution",
+      "line": 26,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-4#solution"
+    },
+    {
+      "anchor": "select-the-needed-combination",
+      "content_hash": "sha256:f3a088c9591365fd54b7de9952175e3cbcd3d9e3b1b005dae71820ac6a67c623",
+      "doc_path": "contract/SOM-4",
+      "file": "vibevm/vibespecs/contract/SOM-4.md",
+      "heading": "SOM.4:4.1 - Select the needed combination",
+      "line": 28,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-4#select-the-needed-combination"
+    },
+    {
+      "anchor": "assemble-from-a-workable-portion",
+      "content_hash": "sha256:2a9ecc2ca0ad690851b01306f25109b5ea9ede23984c260a0357e76f5efad331",
+      "doc_path": "contract/SOM-4",
+      "file": "vibevm/vibespecs/contract/SOM-4.md",
+      "heading": "SOM.4:4.2 - Assemble from a workable portion",
+      "line": 34,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-4#assemble-from-a-workable-portion"
+    },
+    {
+      "anchor": "learn-and-recall-the-development",
+      "content_hash": "sha256:df762b66c6b1eb0bcb04b37e679592834145e8b01c1ef5f0fb8be4ad240c0e7c",
+      "doc_path": "contract/SOM-4",
+      "file": "vibevm/vibespecs/contract/SOM-4.md",
+      "heading": "SOM.4:4.3 - Learn and recall the development",
+      "line": 42,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-4#learn-and-recall-the-development"
+    },
+    {
+      "anchor": "return-to-whole-performance",
+      "content_hash": "sha256:472c7611541784f91361c983b3c9827fa059188dd69ceb5fa56a8972d55f2431",
+      "doc_path": "contract/SOM-4",
+      "file": "vibevm/vibespecs/contract/SOM-4.md",
+      "heading": "SOM.4:4.4 - Return to whole performance",
+      "line": 50,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-4#return-to-whole-performance"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:c212b16dc88b404cff585582881848e6acbe83f348fbab8dc3a0417b22e5620e",
+      "doc_path": "contract/SOM-4",
+      "file": "vibevm/vibespecs/contract/SOM-4.md",
+      "heading": "SOM.4:7 - Conformance Checklist",
+      "line": 56,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-4#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:82cfa3ed7c7e214223c8d4684fb58f03b68c589502d468faf88c2f9128a06b53",
+      "doc_path": "contract/SOM-4",
+      "file": "vibevm/vibespecs/contract/SOM-4.md",
+      "heading": "SOM.4:9 - Consequences",
+      "line": 60,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-4#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:054a0c35a873da17a321033568a3482f0ceb104d6788df2fd840b2760ac05aac",
+      "doc_path": "contract/SOM-4",
+      "file": "vibevm/vibespecs/contract/SOM-4.md",
+      "heading": "SOM.4:12 - Relations",
+      "line": 64,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-4#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:7d788fb2c46437bea8004f519c7be03d6b27ac277b9417d97979480cb4e37370",
+      "doc_path": "contract/SOM-4",
+      "file": "vibevm/vibespecs/contract/SOM-4.md",
+      "heading": "Dependencies",
+      "line": 69,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-4#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:63f84d6be77c9f2f0f0df818eaaa10b03d819c7f4c72a4c013e801324fbe0103",
+      "doc_path": "contract/SOM-4",
+      "file": "vibevm/vibespecs/contract/SOM-4.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-eng-som/contract/SOM-1#root–3 as needed; spec://ai.lev/fpf-eng-hcd/contract/HCD-6#root, spec://ai.lev/fpf-eng-hcd/contract/HCD-10#root @status:spec/done",
+      "line": 71,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-4#DEPENDS-ON"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:a6c76fec78f521e867251f8ab74064cfe17c9ed09964660a788bdbeafbadeb20",
+      "doc_path": "contract/SOM-5",
+      "file": "vibevm/vibespecs/contract/SOM-5.md",
+      "heading": "SOM.5 - Adapt Bodily Coordination to Changing Support and Load",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-5#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:e3eb00a75fbbad41c655c67ac5a351c85d58971f525c0b0f79f66e31e0fae6d1",
+      "doc_path": "contract/SOM-5",
+      "file": "vibevm/vibespecs/contract/SOM-5.md",
+      "heading": "SOM.5:1 - Problem frame",
+      "line": 10,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-5#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:b9d24d10c1cfb99789f591bbc051efe0abffdf77ecd01e49672740bf62f6f946",
+      "doc_path": "contract/SOM-5",
+      "file": "vibevm/vibespecs/contract/SOM-5.md",
+      "heading": "SOM.5:2 - Problem",
+      "line": 16,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-5#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:c8a2705a2a0a05658347c4d4e68f4c49f08793335dd19bd88cc2707246cac625",
+      "doc_path": "contract/SOM-5",
+      "file": "vibevm/vibespecs/contract/SOM-5.md",
+      "heading": "SOM.5:3 - Forces",
+      "line": 20,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-5#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:2e59276e618ed8c121870abe11b468e2705a2208c217cdb7fc4d4282ce0efb20",
+      "doc_path": "contract/SOM-5",
+      "file": "vibevm/vibespecs/contract/SOM-5.md",
+      "heading": "SOM.5:4 - Solution",
+      "line": 24,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-5#solution"
+    },
+    {
+      "anchor": "locate-what-changes",
+      "content_hash": "sha256:726259f04feb35ea1f3253d8c90ec3d60b33b0fce8990ad988e8dd12d23ab7f7",
+      "doc_path": "contract/SOM-5",
+      "file": "vibevm/vibespecs/contract/SOM-5.md",
+      "heading": "SOM.5:4.1 - Locate what changes",
+      "line": 26,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-5#locate-what-changes"
+    },
+    {
+      "anchor": "preserve-the-transition-in-preparation",
+      "content_hash": "sha256:fdf2d4db8e703f1620cc9e2e361bada9d0399dc8aba3cc5b06e3e51627078269",
+      "doc_path": "contract/SOM-5",
+      "file": "vibevm/vibespecs/contract/SOM-5.md",
+      "heading": "SOM.5:4.2 - Preserve the transition in preparation",
+      "line": 32,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-5#preserve-the-transition-in-preparation"
+    },
+    {
+      "anchor": "extend-an-available-coordination",
+      "content_hash": "sha256:6fc8af5662c8247a41ea467174ad86cec2bb2de2a48e275c9f781d10aab835eb",
+      "doc_path": "contract/SOM-5",
+      "file": "vibevm/vibespecs/contract/SOM-5.md",
+      "heading": "SOM.5:4.3 - Extend an available coordination",
+      "line": 38,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-5#extend-an-available-coordination"
+    },
+    {
+      "anchor": "connect-adjustment-and-cue",
+      "content_hash": "sha256:e69f7dda5639eb2773a0fc517189f58c3fed3eecc8ccb5d09e51b833580c1270",
+      "doc_path": "contract/SOM-5",
+      "file": "vibevm/vibespecs/contract/SOM-5.md",
+      "heading": "SOM.5:4.4 - Connect adjustment and cue",
+      "line": 46,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-5#connect-adjustment-and-cue"
+    },
+    {
+      "anchor": "return-to-the-required-action",
+      "content_hash": "sha256:62cacb16427ee54937305078531d9e90fdaefe9736ca73828c3b49f2b724a480",
+      "doc_path": "contract/SOM-5",
+      "file": "vibevm/vibespecs/contract/SOM-5.md",
+      "heading": "SOM.5:4.5 - Return to the required action",
+      "line": 52,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-5#return-to-the-required-action"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:40e62d82312a4b580c80eef8b40bc2155578eed87f6ac39b83c11e877d6739d3",
+      "doc_path": "contract/SOM-5",
+      "file": "vibevm/vibespecs/contract/SOM-5.md",
+      "heading": "SOM.5:7 - Conformance Checklist",
+      "line": 58,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-5#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:1c6d8758e39ce065fd97bfc215b096e7b6a9080bfcc895924a0077af392f974b",
+      "doc_path": "contract/SOM-5",
+      "file": "vibevm/vibespecs/contract/SOM-5.md",
+      "heading": "SOM.5:9 - Consequences",
+      "line": 62,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-5#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:31497a1cd292b34a2cd0dad726cbb1ba647ac54f66ae40540763747deae315de",
+      "doc_path": "contract/SOM-5",
+      "file": "vibevm/vibespecs/contract/SOM-5.md",
+      "heading": "SOM.5:12 - Relations",
+      "line": 66,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-5#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:2740a5774c0459077544b5d12a0e69033d748b20a3ae592672eb0676e7ee0e78",
+      "doc_path": "contract/SOM-5",
+      "file": "vibevm/vibespecs/contract/SOM-5.md",
+      "heading": "Dependencies",
+      "line": 71,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-5#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:ca8f336f469606a35bfbac7d7e1970baa79abe08ce9654565d93411c5d3f66be",
+      "doc_path": "contract/SOM-5",
+      "file": "vibevm/vibespecs/contract/SOM-5.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-eng-som/contract/SOM-1#root–4 as needed; spec://ai.lev/fpf-eng-hcd/contract/HCD-6#root, spec://ai.lev/fpf-eng-hcd/contract/HCD-9#root, spec://ai.lev/fpf-eng-hcd/contract/HCD-10#root @status:spec/done",
+      "line": 73,
+      "uri": "spec://ai.lev/fpf-eng-som/contract/SOM-5#DEPENDS-ON"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:0a7b902b2d93380aa19f7c59cc7e3bfe45d4b85629d0e5d9327e5298acd73c98",
+      "doc_path": "pub/ABOUT",
+      "file": "vibevm/vibespecs/pub/ABOUT.md",
+      "heading": "Somatic Movement Modeling DPF",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-som/pub/ABOUT#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:a5c18ec0a7c6258cce38dca9425a77ab8ce0af7ae563162d4d9239b37bbd8131",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "Preface",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-som/pub/PREFACE#root"
+    },
+    {
+      "anchor": "preface-1",
+      "content_hash": "sha256:f6fddee339d2c7f66965b9be7d3dbbf810fe6f5105e016b416c13177c73a6c91",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "SOM.Preface:1 - Problem frame and scope",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-som/pub/PREFACE#preface-1"
+    },
+    {
+      "anchor": "preface-2",
+      "content_hash": "sha256:3d883ed61e82fac1f8d551c1ee2c9c8bf25cc9009e18fe7540ee3368778235e6",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "SOM.Preface:2 - How the methods work together",
+      "line": 17,
+      "uri": "spec://ai.lev/fpf-eng-som/pub/PREFACE#preface-2"
+    },
+    {
+      "anchor": "preface-3",
+      "content_hash": "sha256:4d75b2ff0f64bd4fe29651af05651c049df26a1fcdcdd1f708588ef19bb1a602",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "SOM.Preface:3 - A connected worked use",
+      "line": 27,
+      "uri": "spec://ai.lev/fpf-eng-som/pub/PREFACE#preface-3"
+    },
+    {
+      "anchor": "preface-4",
+      "content_hash": "sha256:0b90490d4466b56ed9699f0bc9f0d05a3bbce14ae6bc4f1eab0138c169b00cb5",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "SOM.Preface:4 - The simultaneous vertical of movement",
+      "line": 43,
+      "uri": "spec://ai.lev/fpf-eng-som/pub/PREFACE#preface-4"
+    },
+    {
+      "anchor": "preface-5",
+      "content_hash": "sha256:857f19b980853df427f4dbeae12881a03551c63b9923e789b2c976c326cc0e9c",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "SOM.Preface:5 - Interpreting results and choosing further work",
+      "line": 62,
+      "uri": "spec://ai.lev/fpf-eng-som/pub/PREFACE#preface-5"
+    },
+    {
+      "anchor": "preface-6",
+      "content_hash": "sha256:3ba030e713f5fc3be430f0f52a3d10b8c746f7d87fed9d5d982bc41b6914daeb",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "SOM.Preface:6 - Rationale, source use and alternatives",
+      "line": 80,
+      "uri": "spec://ai.lev/fpf-eng-som/pub/PREFACE#preface-6"
+    },
+    {
+      "anchor": "preface-7",
+      "content_hash": "sha256:5aa37471f586233d36ddd4f921cbc7d89c1013b24ce04ba3d335af3e01b41143",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "SOM.Preface:7 - Companion publications and dependencies",
+      "line": 92,
+      "uri": "spec://ai.lev/fpf-eng-som/pub/PREFACE#preface-7"
+    },
+    {
+      "anchor": "preface-end",
+      "content_hash": "sha256:551390034ff5527d5aa02366a22d56a1ac9a05ef87e937f1d1573831874d9a9d",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "SOM.Preface:End",
+      "line": 106,
+      "uri": "spec://ai.lev/fpf-eng-som/pub/PREFACE#preface-end"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:a0405f4e35f2bddfc3bea8c0c25b924f02d969b38b8fd14c25b44612d2d9282f",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Somatic Movement Modeling DPF Readme",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-som/pub/README#root"
+    },
+    {
+      "anchor": "practical-entries",
+      "content_hash": "sha256:c0282f17904700462a266b4c0dc03dd12aa7c0296ee40d984c63869c8d943278",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Practical entries",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-som/pub/README#practical-entries"
+    },
+    {
+      "anchor": "discern-an-instruction-names-a-change-you-cannot-distinguish",
+      "content_hash": "sha256:42ec6c63d5ea2dfaff595a1b5574aceb9605a2335c562c7a6766e2ab52e7e57e",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "DISCERN — An instruction names a change you cannot distinguish",
+      "line": 13,
+      "uri": "spec://ai.lev/fpf-eng-som/pub/README#discern-an-instruction-names-a-change-you-cannot-distinguish"
+    },
+    {
+      "anchor": "coordinate-make-a-correction-work-during-the-whole-action",
+      "content_hash": "sha256:a010b9de36e55e65992e3d9dc5a3f1c031bad9c09949917d66dec3f83145e9ed",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "COORDINATE — Make a correction work during the whole action",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-eng-som/pub/README#coordinate-make-a-correction-work-during-the-whole-action"
+    },
+    {
+      "anchor": "transition-keep-coordination-through-changing-support",
+      "content_hash": "sha256:81a4299235546536985425840e5d766a616495f8f35b72f42b90f5eaa5e2ecd7",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "TRANSITION — Keep coordination through changing support",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-eng-som/pub/README#transition-keep-coordination-through-changing-support"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:f911dc7341f7d1aacf954df92511a96ea573c2930065df226623903ff72c2411",
+      "doc_path": "pub/TOC",
+      "file": "vibevm/vibespecs/pub/TOC.md",
+      "heading": "Table of Contents",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-som/pub/TOC#root"
+    },
+    {
+      "anchor": "public-units",
+      "content_hash": "sha256:9b83bf726b960971851f768c4d21d5d3b592a751bef27c361a850c37c10410ba",
+      "doc_path": "pub/TOC",
+      "file": "vibevm/vibespecs/pub/TOC.md",
+      "heading": "Public units",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-som/pub/TOC#public-units"
+    },
+    {
+      "anchor": "patterns",
+      "content_hash": "sha256:cd6f3a869eff416d6e5d5095cad0a3fdcfa4f6cc4080fe251781d28cdc7f045f",
+      "doc_path": "pub/TOC",
+      "file": "vibevm/vibespecs/pub/TOC.md",
+      "heading": "Patterns",
+      "line": 14,
+      "uri": "spec://ai.lev/fpf-eng-som/pub/TOC#patterns"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:981f1a650dac5839ff216b14bf3c8aaea1d9e34779755097002658666cec23e9",
+      "doc_path": "pub/parts/patterns",
+      "file": "vibevm/vibespecs/pub/parts/patterns.md",
+      "heading": "Patterns",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-som/pub/parts/patterns#root"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:ebb10362ec849c3120c75a58c566599c0ac577c7656596cb232366a522bc7e7b",
+      "doc_path": "source/SOM-1",
+      "file": "vibevm/vibespecs/source/SOM-1.md",
+      "heading": "SOM.1 - Model the Bodily Contribution to a Movement: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-1#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:705068c4009b802a32f77a2814e5911a58d930c9b537553bc4fa28773ae72027",
+      "doc_path": "source/SOM-1",
+      "file": "vibevm/vibespecs/source/SOM-1.md",
+      "heading": "SOM.1:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-1#archetypal-grounding"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:7a96278884c9307ebe2225975ca5d8245272e6d9a7e9b7bf203558fbc9ad1c00",
+      "doc_path": "source/SOM-1",
+      "file": "vibevm/vibespecs/source/SOM-1.md",
+      "heading": "SOM.1:6 - Bias-Annotation",
+      "line": 25,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-1#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:c1cf9d0df1556328a6ac1e6bf711ab46c0e2f45bdc8d9dda65634d98fc6228d0",
+      "doc_path": "source/SOM-1",
+      "file": "vibevm/vibespecs/source/SOM-1.md",
+      "heading": "SOM.1:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 29,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-1#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:c90e409e52a499b59302f16006d901fa6ccece4071b4922c8bbbae83cdcbc23b",
+      "doc_path": "source/SOM-1",
+      "file": "vibevm/vibespecs/source/SOM-1.md",
+      "heading": "SOM.1:10 - Architectural Rationale",
+      "line": 35,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-1#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:f9a4132b1c672d447c215a1e17599002bca551fe8a594fe179a62bb0e587f1f7",
+      "doc_path": "source/SOM-1",
+      "file": "vibevm/vibespecs/source/SOM-1.md",
+      "heading": "SOM.1:11 - SoTA-Echoing",
+      "line": 39,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-1#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:fd2922131c6baf14aeade39d3b6f8bf793651b88631d76dc0f3b3fe896b99710",
+      "doc_path": "source/SOM-1",
+      "file": "vibevm/vibespecs/source/SOM-1.md",
+      "heading": "SOM.1:End",
+      "line": 48,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-1#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:efb39b83e445c2a881a28c1a8f81e8672fcaacaefbde6a9e9098e367ae978e26",
+      "doc_path": "source/SOM-2",
+      "file": "vibevm/vibespecs/source/SOM-2.md",
+      "heading": "SOM.2 - Make a Bodily Change Distinguishable: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-2#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:caead061ebef416c96d6a49498e7064128f24da3a0b6e5d7750feb90b5679f3a",
+      "doc_path": "source/SOM-2",
+      "file": "vibevm/vibespecs/source/SOM-2.md",
+      "heading": "SOM.2:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-2#archetypal-grounding"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:fe914fb6d639177de3b585dcc54d424fa6ed0ca2c7993a66d1ea336d465c09eb",
+      "doc_path": "source/SOM-2",
+      "file": "vibevm/vibespecs/source/SOM-2.md",
+      "heading": "SOM.2:6 - Bias-Annotation",
+      "line": 15,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-2#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:cf9d8e462ba2c42e993dcb39b857c57221d1b61ea8bd4c7bb590eb1269e3085a",
+      "doc_path": "source/SOM-2",
+      "file": "vibevm/vibespecs/source/SOM-2.md",
+      "heading": "SOM.2:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 19,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-2#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:7f1b34a4704bb1ac9ccee95d4b023732b645f6a7e377b974d719ee692712511b",
+      "doc_path": "source/SOM-2",
+      "file": "vibevm/vibespecs/source/SOM-2.md",
+      "heading": "SOM.2:10 - Architectural Rationale",
+      "line": 25,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-2#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:2bb14ea73bf573dea76bb30aa633a69b9b8b58052b34c8f4f5842d1fd6be2cb1",
+      "doc_path": "source/SOM-2",
+      "file": "vibevm/vibespecs/source/SOM-2.md",
+      "heading": "SOM.2:11 - SoTA-Echoing",
+      "line": 29,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-2#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:68291ad51d78c9deada8434fc6fea91088c8fa62306ae79500c02a5f97a20a8b",
+      "doc_path": "source/SOM-2",
+      "file": "vibevm/vibespecs/source/SOM-2.md",
+      "heading": "SOM.2:End",
+      "line": 38,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-2#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:46e407589a395e53d741428b2cfba19a824c22fee1853e1c76394c5ca33b81bc",
+      "doc_path": "source/SOM-3",
+      "file": "vibevm/vibespecs/source/SOM-3.md",
+      "heading": "SOM.3 - Regulate Bodily Effort in Discernible Steps: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-3#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:5657eb40df6786d55b678033d6bf27044eae56615eb3758d49061a1da24d7d9f",
+      "doc_path": "source/SOM-3",
+      "file": "vibevm/vibespecs/source/SOM-3.md",
+      "heading": "SOM.3:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-3#archetypal-grounding"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:52ada83f0027afcdab4604b4f5cba54a3cfbf96b6a12b93cbc02dd40e78504e5",
+      "doc_path": "source/SOM-3",
+      "file": "vibevm/vibespecs/source/SOM-3.md",
+      "heading": "SOM.3:6 - Bias-Annotation",
+      "line": 15,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-3#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:9acfd2ccc06c008deb95a5a5122b7f93b1eb1bf20f77f51dc06e0f17b7e9576b",
+      "doc_path": "source/SOM-3",
+      "file": "vibevm/vibespecs/source/SOM-3.md",
+      "heading": "SOM.3:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 19,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-3#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:f24621bda43272952a0ddc7305010c9af97426ecff3c03af1a72fe5d3f7f5722",
+      "doc_path": "source/SOM-3",
+      "file": "vibevm/vibespecs/source/SOM-3.md",
+      "heading": "SOM.3:10 - Architectural Rationale",
+      "line": 25,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-3#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:111c4863bc6c7902b89eb90c88d5e3dd0c33e8e52a556b8a784f6ea2380ecc35",
+      "doc_path": "source/SOM-3",
+      "file": "vibevm/vibespecs/source/SOM-3.md",
+      "heading": "SOM.3:11 - SoTA-Echoing",
+      "line": 29,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-3#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:f2aa1e23a955a8049a530085dc6f97521560a7a9f2d19e6bf2f2100aba74d3fc",
+      "doc_path": "source/SOM-3",
+      "file": "vibevm/vibespecs/source/SOM-3.md",
+      "heading": "SOM.3:End",
+      "line": 38,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-3#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:fba6aeafd0524de00f323689d98f2628ddb1e8f16ef7263abdc900f3eaa7329a",
+      "doc_path": "source/SOM-4",
+      "file": "vibevm/vibespecs/source/SOM-4.md",
+      "heading": "SOM.4 - Build and Recall a Coordinated Bodily Change: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-4#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:fd714bbe288834c1166c7ab55938418448abe4ead1bcba53ae8f20c6106818b7",
+      "doc_path": "source/SOM-4",
+      "file": "vibevm/vibespecs/source/SOM-4.md",
+      "heading": "SOM.4:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-4#archetypal-grounding"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:a504b888dd8f38a8c28a71576441689b5be03075c0bbcc8fda1b8e4a005b8587",
+      "doc_path": "source/SOM-4",
+      "file": "vibevm/vibespecs/source/SOM-4.md",
+      "heading": "SOM.4:6 - Bias-Annotation",
+      "line": 15,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-4#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:df9de1c5d8739d4ea75e93f2005a6f3ee17398541f4300da2497641bb0d0093c",
+      "doc_path": "source/SOM-4",
+      "file": "vibevm/vibespecs/source/SOM-4.md",
+      "heading": "SOM.4:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 19,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-4#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:62b2bfecbc3707950219d6ad06595ac921a20bba5737fa867584f1371988aaa7",
+      "doc_path": "source/SOM-4",
+      "file": "vibevm/vibespecs/source/SOM-4.md",
+      "heading": "SOM.4:10 - Architectural Rationale",
+      "line": 25,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-4#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:3ab5a968d82c67a5caf2b840ab0a3236e5c818591da7ed501145810228250d1c",
+      "doc_path": "source/SOM-4",
+      "file": "vibevm/vibespecs/source/SOM-4.md",
+      "heading": "SOM.4:11 - SoTA-Echoing",
+      "line": 29,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-4#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:19fc05170e4a8c65bd82743f055dd0b36f22967f7141e10ad33d9ccfdbe29895",
+      "doc_path": "source/SOM-4",
+      "file": "vibevm/vibespecs/source/SOM-4.md",
+      "heading": "SOM.4:End",
+      "line": 40,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-4#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:295598d474230a478367d12f456626aed09c5b2b592bb14ab3b814d5c3383cba",
+      "doc_path": "source/SOM-5",
+      "file": "vibevm/vibespecs/source/SOM-5.md",
+      "heading": "SOM.5 - Adapt Bodily Coordination to Changing Support and Load: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-5#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:e140d55c4ed270e286b8fa3868a3832f66e174f5a67ffde850ff5a45ca76c0c8",
+      "doc_path": "source/SOM-5",
+      "file": "vibevm/vibespecs/source/SOM-5.md",
+      "heading": "SOM.5:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-5#archetypal-grounding"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:4f2b53dd709cb5f106505cc76ea6b3989ff0be22c09a0f50fe7f978edaae953f",
+      "doc_path": "source/SOM-5",
+      "file": "vibevm/vibespecs/source/SOM-5.md",
+      "heading": "SOM.5:6 - Bias-Annotation",
+      "line": 17,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-5#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:1ec0cc1fdba8e6e16b10108e9b38d81059ea988a243c13385f03ff8b784f741a",
+      "doc_path": "source/SOM-5",
+      "file": "vibevm/vibespecs/source/SOM-5.md",
+      "heading": "SOM.5:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 21,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-5#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:72f0347f07dff17a630473eead149968b90c371eea13ff9c3e29f2f6286d3e02",
+      "doc_path": "source/SOM-5",
+      "file": "vibevm/vibespecs/source/SOM-5.md",
+      "heading": "SOM.5:10 - Architectural Rationale",
+      "line": 29,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-5#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:6da37dfa49a8fd4893680cbb3cb809c71f5aaf450120b50e7876096688038b8f",
+      "doc_path": "source/SOM-5",
+      "file": "vibevm/vibespecs/source/SOM-5.md",
+      "heading": "SOM.5:11 - SoTA-Echoing",
+      "line": 33,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-5#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:592b97f8ddcaf06ef1ac09fc0d100c52c7d366cd07cdd5d4ade2bceee6f96b35",
+      "doc_path": "source/SOM-5",
+      "file": "vibevm/vibespecs/source/SOM-5.md",
+      "heading": "SOM.5:End",
+      "line": 42,
+      "uri": "spec://ai.lev/fpf-eng-som/source/SOM-5#end"
+    }
+  ],
+  "suspects": [],
+  "warnings": []
+}
